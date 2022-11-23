@@ -1,4 +1,4 @@
-# Guia de Graphql
+# Guia de Minimal Api
 
 ## Carlos Rocha
 
